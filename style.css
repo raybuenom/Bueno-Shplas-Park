@@ -57,7 +57,7 @@ body {
 
 /* Hero */
 .hero {
-  background: url('imagens/hero.jpg') center/cover no-repeat;
+  background: url('park.png') center/cover no-repeat;
   height: 60vh;
   display: flex;
   justify-content: center;
