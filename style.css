@@ -80,7 +80,7 @@ body {
   display: inline-block;
   margin-top: 1.5rem;
   padding: 10px 20px;
-  background-color: #ff6600;
+  background-color: #346ea5;
   color: #fff;
   text-decoration: none;
   font-size: 1.1rem;
@@ -88,7 +88,7 @@ body {
 }
 
 .btn-primary:hover {
-  background-color: #e65c00;
+  background-color: #1389ce;
 }
 
 /* Seção Sobre */
