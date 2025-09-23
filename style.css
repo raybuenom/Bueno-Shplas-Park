@@ -62,13 +62,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #b60808fa;
+  color: #28ec0efa;
   text-align: center;
 }
 
 .hero h2 {
   font-size: 3rem;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+  text-shadow: 2px 2px 4px rgba(17, 190, 196, 0.6);
 }
 
 .hero p {
@@ -110,7 +110,7 @@ body {
   min-width: 250px;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(10, 182, 159, 0.582);
 }
 
 .card img {
@@ -144,7 +144,7 @@ body {
   min-width: 280px;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(23, 149, 180, 0.726);
 }
 
 .card-atracao img {
